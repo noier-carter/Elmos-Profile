@@ -1,0 +1,48 @@
+.site {
+    border: 5px solid black;
+    padding: 10px;
+
+}
+
+.container {
+
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.H {
+    border: 3px Solid;
+    padding: 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.tittle {
+    font-size: 20px;
+    border: 3px Solid;
+    padding: 10px;
+    margin: 5px;
+}
+.Pictures { display: flex;
+    justify-content: space-around;
+    height: 250px;}
+
+.Friends {display: flex;
+    justify-content: center;
+height: 250px;
+height: 250px;
+padding: 10px;}
+
+.section {
+    border: 5px solid black;
+    padding: 10px;
+    margin: 15px;
+}
+iframe {height: 300px; 
+width: 500px;}
